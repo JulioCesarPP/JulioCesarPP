@@ -4,7 +4,7 @@
 **JulioCesarPP** ✨ Siempre en busca de aventurarme en tecnologias y enfrentar nuevos retos ✨ 
 <!-- A calm mind and a vibrant heart, because life is improvised to the rhythm of the moment. 🧠💚🎶 -->
 
-Here are some ideas to get you started:  
+Here are some relevant facts about me:
 
 - 🔭 I’m currently working on ... OpenSource, Continuous Integration
 - 🌱 I’m currently learning ... NetCore, T-SQL, Angular, Js, Microservicios
